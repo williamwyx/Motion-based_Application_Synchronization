@@ -1,0 +1,6 @@
+System calls and related data structure are in flo-kernel/kernel/acceleration.c and flo-kernel/include/linux/acceleration.h
+
+For part 2, the daemon is in acceleration_d2/accelerationd.c
+
+For part 3, the daemon is in acceleration_d/accelerationc.c
+The test program is acceleration_c/accelerationc.c.

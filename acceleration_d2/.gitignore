@@ -1,0 +1,4 @@
+orientd
+*.o
+.DS_Store
+acceleration_d
